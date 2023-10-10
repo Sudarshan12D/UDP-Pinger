@@ -10,4 +10,4 @@
 
 <br>
 
-![Image](/UDP-Pinger/Output.jpg)
+![Image](/Output.jpg)
